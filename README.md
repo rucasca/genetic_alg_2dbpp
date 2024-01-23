@@ -2,7 +2,7 @@
 Se proporciona una jupyter notebook que contiene diversas implementaciones de técnicas heurísticas y metaheurísticas para resolver el CLP o container loading problem.
 Este problema consiste en seleccionar la mejor disposición de pallets dentro de un contenedor, de forma que se pueda maximizar el volumen cargado cumpliendo una serie de restricciones. 
 
-<img src="/figs/problema.png" alt="Texto Alternativo"  height="200">
+<img src="/figs/problema.png" alt="Texto Alternativo"  height="300">
 
 
 
@@ -10,6 +10,9 @@ En código se divide en hasta cuatro partes:
 
 ### Fuentes de datos usadas para la prueba e interfaz gráfica para la evaluación de los resultados.
 Se implementa un algoritmo capaz de proporcionar una representacion gráfica de la disposición de los pallets dada. Un ejemplo es el siguiente:
+
+
+
 <img src="/figs/interfaz.png" alt="Texto Alternativo" height="100">
 
 
