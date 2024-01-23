@@ -10,7 +10,7 @@ En código se divide en hasta cuatro partes:
 
 ### Fuentes de datos usadas para la prueba e interfaz gráfica para la evaluación de los resultados.
 Se implementa un algoritmo capaz de proporcionar una representacion gráfica de la disposición de los pallets dada. Un ejemplo es el siguiente:
-<img src="/figs/interfaz.png" alt="Texto Alternativo" height="200">
+<img src="/figs/interfaz.png" alt="Texto Alternativo" height="100">
 
 
 
